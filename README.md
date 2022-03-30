@@ -1,4 +1,4 @@
-# C-Case-Problem-10---1
+C#-Case-Problem-10---1
 
 Previously, you created a Contestant class for the Greenville Idol competition. The class includes a contestant’s name, talent code, and talent description. The competition has become so popular that separate contests with differing entry fees have been established for children, teenagers, and adults.
 
